@@ -1,4 +1,4 @@
-package test;
+package test.support;
 
 public abstract class Test {
   public boolean focused() {

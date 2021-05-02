@@ -1,6 +1,8 @@
-package test;
+package test.tests.Support;
 
 import support.Integer128;
+import test.support.Test;
+import test.support.TestFailureException;
 
 public class Integer128Context {
   public static class HexTest extends Test {

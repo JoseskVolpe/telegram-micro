@@ -1,4 +1,4 @@
-package test;
+package test.tests.MTProto.recieve;
 
 import mtproto.recieve.RecieveServerDHParamsOk;
 import mtproto.UnencryptedResponse;
@@ -6,6 +6,7 @@ import mtproto.Serializer;
 import mtproto.CombinatorIds;
 import bouncycastle.BigInteger;
 import support.Integer256;
+import test.support.Test;
 import support.Integer128;
 import support.Debug;
 

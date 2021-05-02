@@ -1,4 +1,4 @@
-package test;
+package test.support;
 
 public abstract class SkippedTest extends Test {
   public boolean skipped() {

@@ -1,6 +1,8 @@
-package test;
+package test.tests.Support;
 
 import support.ArrayPlus;
+import test.support.Test;
+import test.support.TestFailureException;
 
 public class ArrayPlusContext {
   public static class RemoveLeadingZeroesTest extends Test {

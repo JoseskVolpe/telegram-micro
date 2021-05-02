@@ -1,6 +1,8 @@
-package test;
+package test.tests.MTProto;
 
 import mtproto.Serializer;
+import test.support.Test;
+import test.support.TestFailureException;
 
 public class SerializerContext {
   public static class AppendByteStringTest extends Test {

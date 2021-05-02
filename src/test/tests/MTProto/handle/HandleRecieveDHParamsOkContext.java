@@ -1,7 +1,7 @@
-package test;
+package test.tests.MTProto.handle;
 
 import mtproto.handle.HandleRecieveDHParamsOk;
-
+import test.support.SkippedTest;
 import bouncycastle.BigInteger;
 
 public class HandleRecieveDHParamsOkContext {

@@ -1,6 +1,7 @@
-package test;
+package test.tests.Crypto;
 
 import crypto.SHA1;
+import test.support.Test;
 
 public class SHA1Context {
   public static class DigestTest extends Test {

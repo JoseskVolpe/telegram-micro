@@ -1,6 +1,8 @@
-package test;
+package test.tests.Crypto;
 
 import crypto.AES256IGE;
+import test.support.Test;
+import test.support.TestFailureException;
 
 public class AES256IGEContext {
   static byte[] default_key = new byte[] {

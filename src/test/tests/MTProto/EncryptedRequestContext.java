@@ -1,4 +1,4 @@
-package test;
+package test.tests.MTProto;
 
 import mtproto.EncryptedRequest;
 import bouncycastle.BigInteger;

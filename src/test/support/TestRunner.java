@@ -1,8 +1,11 @@
-package test;
+package test.support;
 
 import javax.microedition.lcdui.Form;
 import javax.microedition.lcdui.Display;
 import javax.microedition.midlet.MIDlet;
+
+import test.TestSuite;
+
 import java.util.Vector;
 
 public class TestRunner extends MIDlet {

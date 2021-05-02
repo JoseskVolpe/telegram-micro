@@ -1,5 +1,12 @@
 package test;
 
+import test.support.TestRunner;
+import test.tests.MTProto.*;
+import test.tests.MTProto.recieve.RecieveServerDHParamsOkContext;
+import test.tests.MTProto.handle.*;
+import test.tests.Support.*;
+import test.tests.Crypto.*;
+
 public class TestSuite {
   public static void register_all_tests() {
     TestRunner.register(new RecieveServerDHParamsOkContext.DeserializeTest());

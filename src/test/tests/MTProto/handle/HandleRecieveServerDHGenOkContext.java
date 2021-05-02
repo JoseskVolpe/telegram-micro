@@ -1,8 +1,9 @@
-package test;
+package test.tests.MTProto.handle;
 
 import mtproto.handle.HandleRecieveServerDHGenOk;
 import support.Integer128;
 import support.Integer256;
+import test.support.Test;
 
 public class HandleRecieveServerDHGenOkContext {
   public static class GenerateServerSaltTest extends Test {

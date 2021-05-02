@@ -1,4 +1,4 @@
-package test;
+package test.support;
 
 import java.lang.RuntimeException;
 import java.lang.Throwable;

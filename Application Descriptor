@@ -1,0 +1,9 @@
+MIDlet-Vendor: Faissaloo
+MIDlet-Version: 1.0
+MIDlet-Info-URL: https://github.com/faissaloo/telegram-micro
+MIDlet-2: TelegramMicro, TelegramMicro.png,TelegramMicro
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: TestRunner, ,test.support.TestRunner
+MIDlet-Name: TelegramMicro
+MicroEdition-Profile: MIDP-2.1
+MIDlet-Jar-URL: telegram-micro.jar

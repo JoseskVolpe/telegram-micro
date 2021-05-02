@@ -1,6 +1,8 @@
-package test;
+package test.tests.Crypto;
 
 import crypto.RSAPublicKey;
+import test.support.Test;
+import test.support.TestFailureException;
 import crypto.RSA;
 
 public class RSAPublicKeyContext {

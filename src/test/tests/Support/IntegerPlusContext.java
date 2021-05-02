@@ -1,6 +1,8 @@
-package test;
+package test.tests.Support;
 
 import support.IntegerPlus;
+import test.support.Test;
+import test.support.TestFailureException;
 
 public class IntegerPlusContext {
   public static class RotateRightTest extends Test {

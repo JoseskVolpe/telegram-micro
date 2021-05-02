@@ -1,6 +1,7 @@
-package test;
+package test.tests.Crypto;
 
 import crypto.SHA256;
+import test.support.Test;
 
 public class SHA256Context {
   public static class DigestTest extends Test {

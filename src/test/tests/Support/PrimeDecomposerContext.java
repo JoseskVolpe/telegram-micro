@@ -1,8 +1,11 @@
-package test;
+package test.tests.Support;
 
 import mtproto.PrimeDecomposer;
 
 import support.Integer128;
+import test.support.SkippedTest;
+import test.support.Test;
+import test.support.TestFailureException;
 
 public class PrimeDecomposerContext {
   public static class DecomposeTest extends SkippedTest {

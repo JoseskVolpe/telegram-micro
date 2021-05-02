@@ -1,8 +1,10 @@
-package test;
+package test.tests.MTProto;
 
 import mtproto.send.SendReqDhParams;
 import support.Integer128;
 import support.Integer256;
+import test.support.Test;
+import test.support.TestFailureException;
 import crypto.SHA1;
 
 public class SendReqDhParamsContext {
